@@ -19,7 +19,7 @@ a Node.js command-line application that takes in information about employees on 
  Simply navigate to the application folder in gitbash and run the command line " node index.js" then follow prompt"
         
 ## Usage
-pleae reffer to the video
+please refer to the video
 
 [Link](https://drive.google.com/file/d/10-qfwwdonKVYZANM2aW7Mf6J2-kgFS4a/view)
 
@@ -31,7 +31,7 @@ Demo
 Mohamed Bassiouni
         
 ## Tests
-Please refer tot the folder "tests".
+Please refer to the folder "tests".
         
 ## License
 This project is licensed under the terms of the following license: 
