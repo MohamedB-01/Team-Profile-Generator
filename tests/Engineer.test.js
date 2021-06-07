@@ -1,5 +1,5 @@
 // using Engineer constructor 
-const engineer = require('../lib/Engineer');
+const Engineer = require(`../lib/Engineer`);
 
 
 // creating  a GitHub username in engineer object  

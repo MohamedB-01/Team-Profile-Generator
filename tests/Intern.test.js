@@ -1,5 +1,5 @@
 // using Intern constructor 
-const intern = require('../lib/Intern');
+const Intern = require(`../lib/Intern`);
 
 
 // adds school to intern object  
